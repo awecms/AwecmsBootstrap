@@ -33,7 +33,7 @@ $awecmsDescription = __d('awecms', 'Awecms Bootstrap');
 		echo $this->Html->meta('icon');
 		
 		echo $this->Html->css('bootstrap.min');
-		echo $this->Html->css('bootstrap-responsive.min');
+		// echo $this->Html->css('bootstrap-responsive.min');
 		echo $this->Html->css('awecms.min');
 		echo $this->Html->css('main');
 
