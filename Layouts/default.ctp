@@ -13,7 +13,7 @@
  * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
  */
 
-$awecmsDescription = __d('awecms', 'Awecms Bootstrap');
+$awecmsDescription = __d('awecms', 'AweCMS Bootstrap');
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 8]>      <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
