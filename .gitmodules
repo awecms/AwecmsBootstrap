@@ -1,0 +1,6 @@
+[submodule "webroot/bootstrap"]
+	path = webroot/bootstrap
+	url = git://github.com/twitter/bootstrap.git
+[submodule "webroot/font-awesome"]
+	path = webroot/font-awesome
+	url = git://github.com/FortAwesome/Font-Awesome.git
